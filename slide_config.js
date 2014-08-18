@@ -2,7 +2,7 @@ var SLIDE_CONFIG = {
     // Slide settings
     settings: {
         title: 'Object Oriented Programming Javascript',
-        subtitle: 'Immediate',
+        subtitle: 'Intermediate',
         //eventInfo: {
         //  title: 'Google I/O',
         //  date: '6/x/2013'

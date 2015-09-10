@@ -3,7 +3,7 @@ oopjs-presentation-2014
 
 Object Oriented Programming Presentation 2014 - Location : N.A.U Studio
 
-Live presentation : <a href="http://x1angel.github.io/oopjs-presentation-2014/full.html">http://x1angel.github.io/oopjs-presentation-2014/full.html</a>
+Live presentation : <a href="http://hansthinhle.github.io/oopjs-presentation-2014/full.html">http://hansthinhle.github.io/oopjs-presentation-2014/full.html</a>
 
 Controls : 
 - P : Toogle popup of Scripts
